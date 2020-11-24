@@ -5,7 +5,16 @@
         <div class="col-md-4">
           <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
         </div>
-		<!-- Social Media -->
+    <!-- Original Social Media Block Edit For ICP -->
+        <div class="col-md-4">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a href="https://beian.miit.gov.cn/">{{ site.data.sitetext.footer.ICP | default: ""}}
+              </a>
+            </li>
+          </ul>
+        </div>
+		<!-- Social Media
         <div class="col-md-4">
           <ul class="list-inline social-buttons">
 		  {% for link in site.data.sitetext.footer.social  %}
@@ -18,7 +27,7 @@
             </li>
 			{% endfor %}
           </ul>
-        </div>
+        </div> -->
 		<!-- Legal -->
         <div class="col-md-4">
           <ul class="list-inline quicklinks">
