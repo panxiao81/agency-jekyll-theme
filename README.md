@@ -1,9 +1,9 @@
-# Agency Jekyll Theme | [Live Demo](https://raviriley.github.io/agency-jekyll-theme-starter/)
+# Agency Jekyll Theme Fork
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
 [![template button](https://img.shields.io/badge/-Generate%20theme%20from%20template-brightgreen)](https://github.com/raviriley/agency-jekyll-theme-starter/generate)
 [![Featured on Jekyll-Themes.com](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/agency-jekyll-theme/)
 
-This is a fork of [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/) for my company uses.
+This is a fork of [Agency Bootstrap theme](https://startbootstrap.com/themes/agency/). I have edited the footer. Remove the Social media icons and replaced it with [ICP license](https://en.wikipedia.org/wiki/ICP_license) (abbreviation for *Internet Content Provider*; Chinese: ICP备案).
 
 No Pull Request Please.
 
